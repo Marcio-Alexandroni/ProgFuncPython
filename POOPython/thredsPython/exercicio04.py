@@ -40,9 +40,6 @@ def main():
         print(f'{numero} - {lista}')
         print(f'Tempo = {fim - inicio}')
         
-        
- 
-
 # Função Principal
 if __name__ == '__main__':
     main()
