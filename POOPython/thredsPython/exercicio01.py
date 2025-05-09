@@ -30,3 +30,5 @@ t1.start()
 t2.start()
 t3.start()
 
+# Concorrência: todos os processos estão concorrendo pelo mesmo processador.
+# Paralelismo: dois processadores (em ex) ou núcleos processam (ou agem) ao mesmo tempo.
